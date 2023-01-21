@@ -1,0 +1,57 @@
+.orderContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width:100% ; 
+    min-height: 35vh;
+    height:auto ;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+    /* background-color:red; */
+}
+.orderContainer span{
+    display:flex ; 
+    flex-direction: row;
+    width:100% ; 
+    align-items: center;
+    justify-content:flex-start ;
+}
+.orderContainer span p{
+    margin: 40px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.orderContainer button{
+    width: 100px;
+    height: 40px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 0 10px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    margin: 10%;
+}
+
+.orderContainer button:hover{
+    background-color: #45a049;
+}
+.orderContainer h1{
+    font-size: 25px;
+    font-weight: 800;
+    margin: 10px;
+}
+.orderContainer h2{
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px;
+}
+.orderContainer p{
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px;
+}
