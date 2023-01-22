@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/queensBoutique/static/css/main.9340a539.css",
-    "main.js": "/queensBoutique/static/js/main.f5852b8e.js",
-    "static/js/787.fad7211f.chunk.js": "/queensBoutique/static/js/787.fad7211f.chunk.js",
-    "static/media/logo.svg": "/queensBoutique/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/queensBoutique/index.html",
-    "main.9340a539.css.map": "/queensBoutique/static/css/main.9340a539.css.map",
-    "main.f5852b8e.js.map": "/queensBoutique/static/js/main.f5852b8e.js.map",
-    "787.fad7211f.chunk.js.map": "/queensBoutique/static/js/787.fad7211f.chunk.js.map"
+    "main.css": "/static/css/main.9340a539.css",
+    "main.js": "/static/js/main.57bf963f.js",
+    "static/js/787.fad7211f.chunk.js": "/static/js/787.fad7211f.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.9340a539.css.map": "/static/css/main.9340a539.css.map",
+    "main.57bf963f.js.map": "/static/js/main.57bf963f.js.map",
+    "787.fad7211f.chunk.js.map": "/static/js/787.fad7211f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9340a539.css",
-    "static/js/main.f5852b8e.js"
+    "static/js/main.57bf963f.js"
   ]
 }
